@@ -49,6 +49,9 @@ function App() {
             <a href={'https://whitematters.com'}>Whitematters</a> - A website dedicated to helping grieving family find
             the best deal to send off their
             loved ones
+
+            Notable Things:
+
             <br/>
             <a href={resume}>Click here for my resume</a>
         </div>
